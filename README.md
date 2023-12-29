@@ -1,10 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Udeesha Prabhashana</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/Udeesha-Prabhashana?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Udeesha-Prabhashana?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Udeesha-Prabhashana.repoName) <img src="https://komarev.com/ghpvc/?username= Udeesha-Prabhashana" alt=" Udeesha-Prabhashana" />
+![GitHub followers](https://img.shields.io/github/followers/Udeesha-Prabhashana?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Udeesha-Prabhashana?style=social) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udeesha-prabhashana&label=Profile%20views&color=0e75b6&style=flat" alt="udeesha-prabhashana" /> </p>
 
 ## About Me :
-- I'm a Computer Science undergraduate from the University of Colombo School of Computing.🚀 Competitive Programmer | AI/Machine Learning Enthusiast 🤖 When I'm not coding for projects, you can find me immersed in competitive programming challenges, honing my problem-solving skills. Fascinated by the endless possibilities of AI and machine learning – always eager to explore and innovate.
-
 - 🎓  I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing**
 - 🤖**Data Science** and **AI/Machine Learning** Enthusiast
 - 👨‍💻 **Fascinated by the endless possibilities of AI and machine learning – always eager to explore and innovate.**
