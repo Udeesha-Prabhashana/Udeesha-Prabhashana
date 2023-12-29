@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udeesha-prabhashana&label=Profile%20views&color=0e75b6&style=flat" alt="udeesha-prabhashana" /> </p>
 
 ## About Me :
-- 🎓  I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing**
+- 🎓  I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing** with a knack for fullstack web development 
 - 🤖**Data Science** and **AI/Machine Learning** Enthusiast
 - 👨‍💻 **Fascinated by the endless possibilities of AI and machine learning – always eager to explore and innovate.**
    
@@ -104,15 +104,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Udeesha-Prabhashana)](https://github.com/Udeesha-Prabhashana/github-profile-trophy)
 
 <br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Udeesha-Prabhashana&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-Credit: [AnushkaWijegoonawardana97](https://github.com/Udeesha-Prabhashana)
-
-Last edited on: 30/06/2022
