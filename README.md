@@ -27,18 +27,14 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## Languages and Tools :
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="8" />
@@ -70,15 +66,27 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo"  />
 </div>
 <br>
 
