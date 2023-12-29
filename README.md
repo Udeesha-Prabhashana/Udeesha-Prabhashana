@@ -18,8 +18,14 @@
 
 <br>
 
-[![@Udeesha-Prabhashana](https://img.icons8.com/fluency/48/000000/instagram-new.png "@Udeesha-Prabhashana")](https://www.instagram.com/udeesha_prabhashana/) [![@Udeesha-Prabhashana](https://img.icons8.com/fluency/48/000000/facebook.png "@Udeesha-Prabhashana")]((https://www.facebook.com/udeesha.prabahashana?mibextid=2JQ9oc)) [![@Udeesha-Prabhashana]
-(https://img.icons8.com/fluency/48/000000/linkedin.png "@Udeesha-Prabhashana")]((https://www.linkedin.com/in/udeesha-prabhashana-jayaweera-375611258/)) [![@Udeesha-Prabhashana](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0776750158")](tel:0717467075) [![@udeeshaprabhashana123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](udeeshaprabhashana123@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/udeesha-prabhashana-jayaweera-375611258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udeesha-prabhashana-jayaweera-375611258/" height="30" width="40" /></a>
+<a href="https://kaggle.com/udeeshaprabhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="udeeshaprabhashana" height="30" width="40" /></a>
+<a href="https://fb.com/udeesha.prabahashana?mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="udeesha.prabahashana?mibextid=2jq9oc" height="30" width="40" /></a>
+<a href="https://instagram.com/udeesha_prabhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udeesha_prabhashana" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/udeeshaprabhash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udeeshaprabhash1" height="30" width="40" /></a>
+</p>
 
 <br>
 
