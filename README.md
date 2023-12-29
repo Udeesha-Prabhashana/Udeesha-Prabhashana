@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udeesha-prabhashana&label=Profile%20views&color=0e75b6&style=flat" alt="udeesha-prabhashana" /> </p>
 
 ## About Me :
-- 🎓  I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing** with a knack for fullstack web development 
+- 🎓  I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing** with a 
+     knack for **fullstack web development**
 - 🤖**Data Science** and **AI/Machine Learning** Enthusiast
 - 👨‍💻 **Fascinated by the endless possibilities of AI and machine learning – always eager to explore and innovate.**
    
@@ -17,9 +18,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/udeesha-prabhashana-jayaweera-375611258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udeesha-prabhashana-jayaweera-375611258/" height="30" width="40" /></a>
 <a href="https://kaggle.com/udeeshaprabhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="udeeshaprabhashana" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/udeeshaprabhash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udeeshaprabhash1" height="30" width="40" /></a>
 <a href="https://fb.com/udeesha.prabahashana?mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="udeesha.prabahashana?mibextid=2jq9oc" height="30" width="40" /></a>
 <a href="https://instagram.com/udeesha_prabhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udeesha_prabhashana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/udeeshaprabhash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udeeshaprabhash1" height="30" width="40" /></a>
 </p>
 
 <br>
