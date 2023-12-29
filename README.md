@@ -18,8 +18,8 @@
 
 <br>
 
-[![@Udeesha-Prabhashana](https://img.icons8.com/fluency/48/000000/instagram-new.png "@Udeesha-Prabhashana")](https://www.instagram.com/udeesha_prabhashana/) [![@Udeesha-Prabhashana](https://img.icons8.com/fluency/48/000000/facebook.png "@Udeesha-Prabhashana")]([https://www.facebook.com/AnushkaWijegoonawardana97](https://www.facebook.com/udeesha.prabahashana?mibextid=2JQ9oc)) [![@Udeesha-Prabhashana]
-(https://img.icons8.com/fluency/48/000000/linkedin.png "@Udeesha-Prabhashana")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0776750158")](tel:0717467075) [![@udeeshaprabhashana123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](udeeshaprabhashana123@gmail.com)
+[![@Udeesha-Prabhashana](https://img.icons8.com/fluency/48/000000/instagram-new.png "@Udeesha-Prabhashana")](https://www.instagram.com/udeesha_prabhashana/) [![@Udeesha-Prabhashana](https://img.icons8.com/fluency/48/000000/facebook.png "@Udeesha-Prabhashana")]((https://www.facebook.com/udeesha.prabahashana?mibextid=2JQ9oc)) [![@Udeesha-Prabhashana]
+(https://img.icons8.com/fluency/48/000000/linkedin.png "@Udeesha-Prabhashana")]((https://www.linkedin.com/in/udeesha-prabhashana-jayaweera-375611258/)) [![@Udeesha-Prabhashana](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0776750158")](tel:0717467075) [![@udeeshaprabhashana123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](udeeshaprabhashana123@gmail.com)
 
 <br>
 
