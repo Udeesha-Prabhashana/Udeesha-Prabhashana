@@ -17,8 +17,6 @@
 ## Connect with me ☕ :
 
 <br>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/udeesha-prabhashana-jayaweera-375611258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udeesha-prabhashana-jayaweera-375611258/" height="30" width="40" /></a>
 <a href="https://kaggle.com/udeeshaprabhashana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="udeeshaprabhashana" height="30" width="40" /></a>
