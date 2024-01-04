@@ -8,7 +8,7 @@
 - 🎓  I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing** with a 
      knack for **fullstack web development**
 - 🤖**Data Science** and **AI/Machine Learning** Enthusiast
-- 👨‍💻 **Fascinated by the endless possibilities of AI and machine learning – always eager to explore and **
+- 👨‍💻 **Fascinated by the endless possibilities of AI and machine learning – always eager to explore and innovate**
    
 <br>
 
