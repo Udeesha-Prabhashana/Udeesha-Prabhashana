@@ -12,7 +12,7 @@
    
 <br>
 
-## Connect with me ☕ 
+## Connect with me ☕ :
 
 <br>
 <p align="left">
