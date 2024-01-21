@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Udeesha Prabhashana
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Udeesha Prabhashana
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/Udeesha-Prabhashana?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Udeesha-Prabhashana?style=social) 
